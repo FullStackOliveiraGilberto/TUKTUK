@@ -1,13 +1,14 @@
-# TUKTUK
-SITE TUKTUK FEITO MATERIALIZE E ANGULAR
+# Angular 
+Protótipo 
+SITE FEITO MATERIALIZE E ANGULAR
 
 
-Objetivo: Site para grupos serviços de motos ou carros de aluguel
-site em varias linguas
-Prototipo para desmostração de site em: Portugues, Alemão e Inglês
+Objetivo: Site para grupos serviços de motos (TUKTUK) ou carros de aluguel
+site em várias linguás. 
+Protótipo para demostração de site em: Português, Alemão e Inglês
 
 
-tecnologia: 
+Tecnologia: 
 Front: Materialize e Angular Translate - angular-translate.js
 
 
